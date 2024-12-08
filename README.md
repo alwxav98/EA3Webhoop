@@ -1,6 +1,6 @@
 # Webhoop project in Node.js
 
-This project implements a basic GraphQL server in Python, using Flask and Ariadne, including a graphical interface for querying the API.
+This project implements a basic Webhoop-style architecture using Node.js and Express.
 
 ## Instructions to run the project
 ### Prerequisites
